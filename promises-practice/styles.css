@@ -1,0 +1,17 @@
+ul{
+    list-style-type: none;
+}
+
+.item{
+    margin: .6rem;
+    background-color: tomato;
+}
+
+.item div{
+    display: flex;
+    justify-content: space-between;
+    padding: 0 5rem;
+    text-transform: capitalize;
+    color: white;
+    font-size: 20px;
+}
